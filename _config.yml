@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "시작하자!"
+title                    : "ayajin's robotics"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ayajin"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ayajin/ayajin.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "The crisis of today is the joke of tomorrow" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "ayajin's robotics" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "김응현"
+  name             : "ayajin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열심히 공부해나가는 학생입니다 <br> 블로그 포스트 글에서 잘못된 부분이나 수정했으면 하는 부분, 댓글 주저하시지 말고 남겨주신다면 감사하겠습니다."
+  bio              : "The crisis of today is the joke of tomorrow <br> H.G. Wells"
   location         : "Republic of Korea"
   email            : "ayajin1018@gmail.com"
   links:
